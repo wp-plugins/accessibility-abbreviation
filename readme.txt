@@ -9,7 +9,7 @@ Add abbreviation-tags to comply with the Web Content Accessibility Guidelines
 
 == Description ==
 
-Add abbreviation-tags including language attributes to your content to comply with the Web Content Accessibility Guidelines
+WCAG 1.0 Guideline 4. Clarify natural language usage: Content developers should provide expansions of abbreviations and acronyms.
 
 == Installation ==
 
