@@ -1,7 +1,7 @@
 === Accessibility Abbreviation ===
 Contributors: Hailstorm
-Tags: accessibility, abbreviation, abbr, wcag
-Requires at least: 2.0.2
+Tags: abbr, abbreviation, accessibility, wcag
+Requires at least: 3.0
 Tested up to: 3.1.2
 Stable tag: 1.0
 
@@ -9,7 +9,7 @@ Add abbreviation-tags via TinyMCE to comply with the Web Content Accessibility G
 
 == Description ==
 
-WCAG 1.0 Guideline 4. Clarify natural language usage: Content developers should provide expansions of abbreviations and acronyms.
+WCAG 1.0 Guideline 4: Clarify natural language usage. Content developers should provide expansions of abbreviations and acronyms.
 
 == Installation ==
 
